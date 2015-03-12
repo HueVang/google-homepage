@@ -125,7 +125,7 @@ a:hover{
 	line-height: 40px;
 }
 
-#footer .left{
+#footer .left {
 	margin-left: 30px;
 	display: inline;
 }
@@ -139,7 +139,7 @@ a:hover{
 	margin-bottom: 10px;
 }
 
-#footer a{
+#footer a {
 	margin: 5px 5px 0px 5px;
 	color: #40402b;
 }
@@ -166,17 +166,13 @@ a:hover{
 }
 
 #footer a {
-	/*position: relative;*/
+	/*position: relative;
 	margin: 20px 10px 0px 5px;
-}
+}*/
 
 
 #footer:hover {
 	color: #353532;
-}
-
-#footer .footer_right {
-	float: right;
 }
 
 
